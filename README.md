@@ -1,2 +1,5 @@
-# ethindia-projects
-List of projects created at ETHIndia - India's Largest Ethereum Hackathon
+# EthIndia Projects
+
+List of awesome projects created at ETHIndia - Asia's Largest Ethereum Hackathon
+
+CryptoSign - https://devfolio.co/submissions/cryptosign
